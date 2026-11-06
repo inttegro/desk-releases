@@ -12,6 +12,6 @@ This repository contains release artifacts only. It does not contain application
 
 ## Verify a download
 
-Every release includes a `SHA256SUMS` manifest. Inttegro Desk for macOS is signed and notarized; the Windows installer is Authenticode signed.
+Every release includes a `SHA256SUMS` manifest and states whether its macOS and Windows installers are signed. Unsigned previews will trigger operating-system security warnings and do not update automatically.
 
 For product information and support, visit [inttegro.com](https://inttegro.com).
